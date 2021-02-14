@@ -22,7 +22,7 @@ title = "YuHsuan Chen"
 
 ## Actions
 [params.actions]
-  cv = {url="/cv/yuhsuanchen_cv.pdf", name="Review My CV"}
+  resume = {url="/cv/yuhsuanchen_cv.pdf", name="Review My CV"}
 
 ## Footer Configurations
 [params.footer]
